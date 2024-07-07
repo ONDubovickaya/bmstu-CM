@@ -18,5 +18,5 @@
 * [задание](https://github.com/ONDubovickaya/bmstu-CM/blob/main/2%20sem/lab%203/README.md) <br />
 ### №4. Метод Ньютона
 * [описание метода](https://github.com/ONDubovickaya/bmstu-CM/blob/main/2%20sem/lab%204/theory.pdf) <br />
-* [алгоритм](https://github.com/ONDubovickaya/bmstu-CM/blob/main/2%20sem/lab%204/algorithm.jpg) <br />
+* [алгоритм (для модифицированного метода Ньютона)](https://github.com/ONDubovickaya/bmstu-CM/blob/main/2%20sem/lab%204/algorithm.jpg) <br />
 * [задание](https://github.com/ONDubovickaya/bmstu-CM/blob/main/2%20sem/lab%204/README.md) <br />
