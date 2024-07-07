@@ -7,7 +7,7 @@
 * [алгоритм](https://github.com/ONDubovickaya/bmstu-CM/blob/main/2%20sem/lab%201/algorithm.jpg) <br />
 №2. Метод золотого сечения: <br />
 * [теория](https://github.com/ONDubovickaya/bmstu-CM/blob/main/2%20sem/lab%202/theory.pdf) <br />
-* [алгоритм](https://github.com/ONDubovickaya/bmstu-CM/blob/main/2%20sem/lab%202/algorithm.jpg) <br />
+* [алгоритм](https://github.com/ONDubovickaya/bmstu-CM/blob/main/2%20sem/lab%202/algorithm.jpg)
 №3. Метод парабол: <br />
 * [теория](https://github.com/ONDubovickaya/bmstu-CM/blob/main/2%20sem/lab%203/theory.pdf) <br />
 * [алгоритм](https://github.com/ONDubovickaya/bmstu-CM/blob/main/2%20sem/lab%203/algorithm.jpg) <br />
